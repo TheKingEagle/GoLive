@@ -1,9 +1,9 @@
 # GoLive
 A Twitch integration module for your discord bot. Designed for RMSoftware.ModularBOT
-## Source Code
+
+### Source Code
 **Users who want to build from source will need to reference the RMSoftwareModularBot project.**
 
-#### Please note: For usage examples we will be using the command prefix `!`. Remember to use the prefix you setup with the bot.
 # Installing
 #### Please note: For usage examples we will be using the command prefix `!`. Remember to use the prefix you setup with the bot.
 * Create a guild role called `🔴 Live!` (Yes, copy and paste the role name.)
@@ -25,7 +25,7 @@ CMD InitGoLive
 	* **Please note**: Your bot must have the ability to mention @everyone in order to correctly use this command.
 
 # FAQ &amp; Troubleshooting
-## My bot isn't notifying a channel I went live?
+### My bot isn't notifying a channel I went live?
 * Does your bot have permission to send messages to your channel?
 * Does your bot has the ability to post embeds and links in your text channel?
 * This module will only work on Guild Channels. Not Groups or DM.
