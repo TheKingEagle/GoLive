@@ -5,6 +5,7 @@ A Twitch integration module for your discord bot. Designed for RMSoftware.Modula
 
 #### Please note: For usage examples we will be using the command prefix `!`. Remember to use the prefix you setup with the bot.
 # Installing
+#### Please note: For usage examples we will be using the command prefix `!`. Remember to use the prefix you setup with the bot.
 * Create a guild role called `🔴 Live!` (Yes, copy and paste the role name.)
 * Make sure this role is below your bot's active role.
 * Copy `GoLive.dll` &amp; `Services.GoLive.ini` into the `CMDModules` directory of your bot's installed directory. typically in your `AppData` folder.
