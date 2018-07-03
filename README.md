@@ -31,3 +31,4 @@ CMD InitGoLive
 * This module will only work on Guild Channels. Not Groups or DM.
 * Ensure you have used the `!addalert` command in that channel.
 * Does your guild have the designated GoLive role? (`🔴 Live!`) Is this role below your bot's highest active role?
+* Make sure you have enabled **Streamer Mode** in your settings. Otherwise, you won't get recognized as being live. By default, streamer mode is automatically enabled when you start OBS.
