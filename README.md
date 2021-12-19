@@ -1,6 +1,9 @@
 # GoLive
 A Twitch integration module for your discord bot. Designed for RMSoftware.ModularBOT
 
+# NOTICE OF ARCHIVE
+This module is not maintained since ModularBOT v2.0, and changes to the way discord handles presence.
+
 ### Source Code
 **Users who want to build from source will need to reference the RMSoftwareModularBot project.**
 
